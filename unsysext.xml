@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<extension type="component" version="3.6.0" method="upgrade">
+<extension type="component" version="3.0" method="upgrade">
     <name>COM_UNSYSEXT</name>
     <author>Aleksey A. Morozov</author>
     <authorEmail>alekvolsk@yandex.ru</authorEmail>
-    <authorUrl></authorUrl>
+    <authorUrl>https://alekvolsk.pw</authorUrl>
     <copyright>© 2016 Aleksey A. Morozov. All right reserved.</copyright>
     <license>GNU General Public License version 3 or later; see http://www.gnu.org/licenses/gpl-3.0.txt</license>
     <version>1.0.0</version>
