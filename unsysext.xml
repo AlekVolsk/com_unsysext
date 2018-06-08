@@ -5,8 +5,8 @@
     <authorEmail>alekvolsk@yandex.ru</authorEmail>
     <authorUrl></authorUrl>
     <copyright>© 2016 Aleksey A. Morozov. All right reserved.</copyright>
-    <license>GNU GPL v2 or later</license>
-    <version>1.0</version>
+    <license>GNU General Public License version 3 or later; see http://www.gnu.org/licenses/gpl-3.0.txt</license>
+    <version>1.0.0</version>
     <description>COM_UNSYSEXT_DESC</description>
     <creationDate>September 2016</creationDate>
     <administration>
