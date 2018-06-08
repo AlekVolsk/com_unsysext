@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<extension type="component" version="3.6.0" method="upgrade">
+    <name>COM_UNSYSEXT</name>
+    <author>Aleksey A. Morozov</author>
+    <authorEmail>alekvolsk@yandex.ru</authorEmail>
+    <authorUrl></authorUrl>
+    <copyright>© 2016 Aleksey A. Morozov. All right reserved.</copyright>
+    <license>GNU GPL v2 or later</license>
+    <version>1.0</version>
+    <description>COM_UNSYSEXT_DESC</description>
+    <creationDate>September 2016</creationDate>
+    <administration>
+        <menu>COM_UNSYSEXT</menu>
+        <files folder="admin">
+            <filename>unsysext.php</filename>
+            <filename>controller.php</filename>
+            <filename>access.xml</filename>
+            <folder>controllers</folder>
+            <folder>models</folder>
+            <folder>tables</folder>
+            <folder>views</folder>
+        </files>
+        <languages folder="admin">
+            <language tag="en-GB">language/en-GB/en-GB.com_unsysext.ini</language>
+            <language tag="en-GB">language/en-GB/en-GB.com_unsysext.sys.ini</language>
+            <language tag="ru-RU">language/ru-RU/ru-RU.com_unsysext.ini</language>
+            <language tag="ru-RU">language/ru-RU/ru-RU.com_unsysext.sys.ini</language>
+        </languages>
+    </administration>
+</extension>
