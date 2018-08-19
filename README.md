@@ -1,5 +1,7 @@
 # UnSysExt
 
+![Github Releases](https://img.shields.io/github/downloads/AlekVolsk/com_unsysext/latest/total.svg)
+
 ### EN:
 
 Component disable «unavailable» status Management System Joomla extensions.
